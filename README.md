@@ -1,4 +1,4 @@
-# Tabuleiro Matemaático
+# Tabuleiro Matemático
 
 Neste trabalho foi implementado uma aplicação em Android Studio que permite desenvolver a agilidade no 
 cálculo matemático dos jogadores. O jogo desenrola-se num tabuleiro 5 x 5, no qual são apresentadas 6 
@@ -12,3 +12,20 @@ respetivamente.
 ## Funcionamento
 
 ![whybigsz](https://github.com/whybigsz/Tabuleiro-Matematico-Android/blob/main/hm.PNG?raw=true)
+
+## Aprendizagem
+
+- Kotlin
+- UI Design
+- Atividades e Fragmentos
+- Intents
+- Gestão LifeCycle
+- Permissões
+
+## Tecnologia
+
+- Kotlin
+
+## Autores
+
+- Ricardo f
