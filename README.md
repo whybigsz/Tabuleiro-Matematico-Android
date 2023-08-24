@@ -9,3 +9,6 @@ maior do que as operações ‘+’ e ‘–’). Para indicar a expressão que 
 valor, o jogador deverá realizar uma ação swipe vertical ou horizontal sobre a coluna ou linha, 
 respetivamente.
 
+## Funcionamento
+
+![whybigsz](https://github.com/whybigsz/Tabuleiro-Matematico-Android/blob/main/hm.PNG?raw=true)
