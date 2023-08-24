@@ -28,4 +28,4 @@ respetivamente.
 
 ## Autores
 
-- Ricardo f
+- Ricardo Ferreira [@whybigsz](https://www.github.com/whybigsz)
