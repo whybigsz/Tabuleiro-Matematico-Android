@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934153233021",
+    "project_id": "amov-tp1",
+    "storage_bucket": "amov-tp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934153233021:android:ff8a2f6248e2416e178714",
+        "android_client_info": {
+          "package_name": "com.example.amov_2022_2023_tp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934153233021-8t3lhg4nflmbv9es3p87u2nm9nu0f5h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0HZP82o1zuz0PbYZ05YXNICK8t4oDPhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934153233021-8t3lhg4nflmbv9es3p87u2nm9nu0f5h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

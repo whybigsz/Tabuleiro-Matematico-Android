@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="app_lang">🇵🇹 Português</string>
+    <string name="camera_capture">📷 Capturar</string>
+    <string name="camera_back">⬅ Voltar</string>
+    <string name="button_connect">Ligar</string>
+    <string name="btn_emulator">Ligar a um emulador</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="error_address">Endereço não reconhecido</string>
+    <string name="msg_ip_address">IP do servidor: %s\nÀ espera de um cliente...</string>
+    <string name="msg_ip_address2">Jogo prestes a começar</string>
+    <string name="client_mode">Modo Cliente</string>
+    <string name="server_mode">Modo Servidor</string>
+    <string name="ask_ip">IP do servidor:</string>
+    <string name="home_local">📍 Local</string>
+    <string name="home_online">🌍 Online</string>
+    <string name="home_settings">⚙️ Definições</string>
+    <string name="home_about">ℹ️ Sobre</string>
+    <string name="app_exit">🚪 Sair</string>
+    <string name="app_permissions_msg">Nem todas as permissões foram dadas. A encerrar…</string>
+    <string name="permissions_request_btn">A pedir permissões</string>
+    <string name="settings_profile">👨 Perfil</string>
+    <string name="settings_lang">Linguagem</string>
+    <string name="profile_name">Nome de Utilizador</string>
+    <string name="profile_copyID">📋 Copiar o meu ID</string>
+    <string name="game_player2_name">Jogador 2</string>
+    <string name="app_back">⬅ Voltar</string>
+    <string name="game_end_title">Fim do Jogo!</string>
+    <string name="game_end_msg">A voltar para o Menu Principal</string>
+    <string name="play_as_server">Jogar como Server</string>
+    <string name="play_as_client">Jogar como Cliente</string>
+    <string name="change_theme">🎨 CHANGE THEME</string>
+    <string name="main_time">Tempo:</string>
+    <string name="main_points">Pontos:</string>
+    <string name="main_expressions_10">Acerte 10 expressoes</string>
+    <string name="main_restart">🔄 Recomeçar</string>
+    <string name="main_level">Nivel:</string>
+    <string name="game_good_game">Bom Jogo!</string>
+    <string name="home_leaderboard">🏆 Classificações</string>
+    <string name="settings_theme">🎨 Mudar de Tema</string>
+</resources>

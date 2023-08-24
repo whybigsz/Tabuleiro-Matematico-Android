@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context=".GameLocal">
+
+<!--text view for displaying simple heading-->
+    <TextView
+        android:id="@+id/idTVHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:gravity="center_horizontal"
+        android:text="TP1"
+        android:textAlignment="center"
+        android:textColor="#009688"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+<!--text view for displaying the selected theme-->
+    <TextView
+        android:id="@+id/idtvTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idTVHeading"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:text="System Default Theme"
+        android:textAlignment="center"
+        android:textColor="#009688"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+<!--radio group for switching theme-->
+<RadioGroup
+    android:id="@+id/idRGgroup"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/idtvTheme"
+    android:layout_marginTop="30dp"
+    android:orientation="vertical"
+    android:padding="4dp">
+
+    <!--radio button for light theme-->
+    <RadioButton
+        android:id="@+id/idRBLight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:text="Light"
+        android:textColor="#009688"
+        android:textStyle="bold" />
+
+    <!--radio button for dark theme-->
+    <RadioButton
+        android:id="@+id/idRBDark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Dark"
+        android:textColor="#009688"
+        android:textStyle="bold" />
+
+</RadioGroup>
+
+</RelativeLayout>

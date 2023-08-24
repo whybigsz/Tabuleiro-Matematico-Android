@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="app_lang">🇬🇧 English</string>
+    <string name="camera_capture">📷 Capture</string>
+    <string name="camera_back">Back</string>
+    <string name="button_connect">Connect</string>
+    <string name="client_mode">Client mode</string>
+    <string name="server_mode">Server mode</string>
+    <string name="ask_ip">Server IP address:</string>
+    <string name="btn_emulator">Connect to emulator</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="error_address">Address not recognized</string>
+    <string name="msg_ip_address">Server IP address: %s\nWaiting for a client...</string>
+    <string name="msg_ip_address2">Game is about to start</string>
+    <string name="home_local">📍 Local</string>
+    <string name="home_online">🌍 Online</string>
+    <string name="home_settings">⚙️ Settings</string>
+    <string name="home_about">ℹ️ About</string>
+    <string name="app_exit">🚪 Exit</string>
+    <string name="app_permissions_msg">Not all permissions were granted. Shutting down…</string>
+    <string name="permissions_request_btn">Request for permissions</string>
+    <string name="settings_profile">👨 Profile‍</string>
+    <string name="settings_lang">Language</string>
+    <string name="profile_name">Username</string>
+    <string name="profile_copyID">📋 Copy my ID</string>
+    <string name="game_player2_name">Player 2</string>
+    <string name="app_back">⬅ Return</string>
+    <string name="game_end_title">Game is Over!</string>
+    <string name="game_end_msg">Returning to Main Menu...</string>
+    <string name="play_as_server">👩🏻‍💻 Play as Server</string>
+    <string name="play_as_client">👦🏻 Play as Client</string>
+    <string name="change_theme">🎨 CHANGE THEME</string>
+    <string name="main_time">Time:</string>
+    <string name="main_points">Points:</string>
+    <string name="main_expressions_10">Acerte 10 expressoes</string>
+    <string name="main_restart">🔄 Restart</string>
+    <string name="main_level">Level:</string>
+    <string name="game_good_game">Good Game!</string>
+    <string name="home_leaderboard">🏆 Leaderboard</string>
+    <string name="settings_theme">🎨 Change Theme</string>
+</resources>
+
